@@ -54,10 +54,10 @@ topics:
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
-  - name: Nuxt.js
-    web_url: https://github.com/topics/nuxtjs
-    image_url: https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png
+  - name: Wordpress
+    web_url: https://github.com/topics/wordpress
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png
 
-  - name: Laravel
-    web_url: https://github.com/topics/laravel
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png
+  - name: Blogger
+    web_url: https://github.com/topics/blogger
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1200px-Blogger.svg.png
